@@ -122,6 +122,12 @@ I iterated over the time-series data visualisation for each version except for v
 
 I tried to find explanations for the peaks on March 5th, April 11th, and June 9th but wasn't able to find anything definitive and justifiable. Rather than detracting from the story of the affects of September 11th, I decided not to add additional annotations for those dates.
 
+After receiving feedback from the Udacity reviewer (listed above in the feedback section), I made the following changes:
+
+- I updated the IPython notebook to filter the data used in the visualisation to only include the 6 largest airlines and limit the data to only the last half of 2001.
+- I added a much better title (though I can't take credit for it as it was written for Time Magazine) and added a quote from the same article the title came from.
+- I made the visualisation smaller so it would fit within the browser without scrolling for users with smaller screens.
+
 ## Resources
 
 - http://dimplejs.org/

@@ -3,7 +3,7 @@
 #### Data Analyst Nanodegree (Udacity)
 Project submission by Edward Minnett (ed@methodic.io).
 
-February 8th 2017. (Revision 1)
+February 8th 2017. (Revision 2)
 
 ----------
 
@@ -103,6 +103,11 @@ _ I explained my predicament to the reviewer who agreed that the story was so cl
     + Increase the font-size of the legend labels to make them clearer.
     + Get rid of the 'Date' label for the x axis as it is redundant when seen next to the months.
 
+Feedback 4: From the Udacity reviewer (in their words)
+- It's very slow to render - I've suggested pre-processing your data in Python to only include the six airlines AND I've also suggested using less data points to stop it looking so crowded. This should sort this out.
+- You've come up with a fabulous story - shout out about it, let the reader know what your message is with a snappier title.
+- There are a few design choices which could be optimised. Mainly the fact that the graphic still appears crowded and it is also very big - I had to zoom out to view it properly which made the tooltips and labels very small.
+
 ## Final Design Decisions
 
 I iterated over the time-series data visualisation for each version except for version 3 where I attempted to create an animated bubble chart. The iterative feedback allowed me to progressively refine the visualisation. Between the initial version and the final version, I made the following improvements.
@@ -123,3 +128,4 @@ I tried to find explanations for the peaks on March 5th, April 11th, and June 9t
 - https://github.com/PMSI-AlignAlytics/dimple/wiki
 - http://colorbrewer2.org/
 - http://stackoverflow.com/
+- http://content.time.com/time/nation/article/0,8599,174912,00.html

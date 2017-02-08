@@ -1,28 +1,37 @@
 var draw_data_viz = function () {
-    var svg = dimple.newSvg("#data-viz", 1280, 800);
-    d3.csv("/data/2001_proportional_cancellations_prefiltered.csv", function (data) {
+    var svg = dimple.newSvg("body", 1800, 1200);
+    d3.csv("/data/2001_proportional_cancellations.csv", function (data) {
         // Add a ititle to the chart.
         svg.append("text")
-            .attr("x", 640)
+            .attr("x", 900)
             .attr("y", 14)
             .attr("text-anchor", "middle")
             .style("font-family", "sans-serif")
             .style("font-size", "18px")
             .style("font-weight", "bold")
-            .text("The Day the FAA Stopped the World*");
+            .text("The Reliability of Flights in the US for 2001");
+
+        // Filter the data to only include some of the carriers
+        carriewWhitelist = [
+            "American Airlines Inc.",
+            "United Air Lines Inc.",
+            "Delta Air Lines Inc.",
+            "Continental Air Lines Inc.",
+            "US Airways Inc.",
+            "American Eagle Airlines Inc."
+        ]
+        data = dimple.filterData(data, "CarrierName", carriewWhitelist)
 
         var chart = new dimple.chart(svg, data);
-        chart.setBounds(100, 30, 1200, 725);
+        chart.setBounds(100, 30, 1700, 1000);
 
         // Set the 'Date' as the 'x' axis and format it appropriately.
         var x = chart.addCategoryAxis("x", "Date");
         x.dateParseFormat = "%m/%d/%y";
-        x.timePeriod = d3.timeMonth;
-        x.timeInterval = 1;
         x.timeField = "Date";
         x.tickShape = "%B";
         x.tickFormat = "%B";
-        x.ticks = 6;
+        x.shape
         x.fontSize = 16;
 
         // Set the 'ProportionalCancellations' as the 'y' axis and format it appropriately.
@@ -50,21 +59,13 @@ var draw_data_viz = function () {
             "#a6d854",
             "#ffd92f"
         ];
-        var carriers = [
-            "American Airlines Inc.",
-            "United Air Lines Inc.",
-            "Delta Air Lines Inc.",
-            "Continental Air Lines Inc.",
-            "US Airways Inc.",
-            "American Eagle Airlines Inc."
-        ]
         // Set series colours.
         for (var i = 0; i < colours.length; i++) {
-            chart.assignColor(carriers[i], colours[i]);
+            chart.assignColor(carriewWhitelist[i], colours[i]);
         }
 
         // Create the legend and draw the chart.
-        var legend = chart.addLegend(100, 50, 250, 100, "right");
+        var legend = chart.addLegend(100, 50, 500, 60, "right");
         legend.fontSize = 16;
         chart.draw();
 
@@ -80,14 +81,14 @@ var draw_data_viz = function () {
 
         // Add a line to the chart indicating September 11th.
         svg.append("line")
-            .attr("x1", 571)
-            .attr("x2", 571)
+            .attr("x1", 1282)
+            .attr("x2", 1282)
             .attr("y1", chart._yPixels())
             .attr("y2", chart._yPixels() + chart._heightPixels())
             .style("stroke", "red")
             .style("stroke-dasharray", "10");
         svg.append("text")
-            .attr("x", 455)
+            .attr("x", 1165)
             .attr("y", 75)
             .style("font-family", "sans-serif")
             .style("font-size", "14px")

@@ -1,0 +1,1105 @@
+CarrierName,Date,ProportionalCancellations
+US Airways Inc.,07/13/01,0.00538160469667
+US Airways Inc.,07/14/01,0.00840336134454
+US Airways Inc.,07/15/01,0.0120481927711
+US Airways Inc.,07/16/01,0.00930004894763
+US Airways Inc.,07/17/01,0.0215475024486
+US Airways Inc.,07/18/01,0.0112579539892
+US Airways Inc.,07/19/01,0.0102840352595
+US Airways Inc.,07/20/01,0.00440744368266
+US Airways Inc.,07/21/01,0.00840336134454
+US Airways Inc.,07/22/01,0.0110552763819
+US Airways Inc.,07/23/01,0.0156555772994
+US Airways Inc.,07/24/01,0.0229941291585
+US Airways Inc.,07/25/01,0.0259295499022
+US Airways Inc.,07/26/01,0.0601761252446
+US Airways Inc.,07/27/01,0.0156555772994
+US Airways Inc.,07/28/01,0.00839895013123
+US Airways Inc.,07/29/01,0.0426706827309
+US Airways Inc.,07/30/01,0.01614481409
+US Airways Inc.,07/31/01,0.00880626223092
+US Airways Inc.,07/01/01,0.1535
+US Airways Inc.,07/02/01,0.0210924824229
+US Airways Inc.,07/03/01,0.00216802168022
+US Airways Inc.,07/04/01,0.0119241192412
+US Airways Inc.,07/05/01,0.0113821138211
+US Airways Inc.,07/06/01,0.00108459869848
+US Airways Inc.,07/07/01,0.0100052659294
+US Airways Inc.,07/08/01,0.00904068307383
+US Airways Inc.,07/09/01,0.00880626223092
+US Airways Inc.,07/10/01,0.0636007827789
+US Airways Inc.,07/11/01,0.0181017612524
+US Airways Inc.,07/12/01,0.00489236790607
+United Air Lines Inc.,07/01/01,0.0672308415609
+United Air Lines Inc.,07/02/01,0.0413602941176
+United Air Lines Inc.,07/03/01,0.0271139705882
+United Air Lines Inc.,07/04/01,0.0120759056929
+United Air Lines Inc.,07/05/01,0.0230308613542
+United Air Lines Inc.,07/06/01,0.0335323840147
+United Air Lines Inc.,07/07/01,0.0241196333816
+United Air Lines Inc.,07/08/01,0.0202830188679
+United Air Lines Inc.,07/09/01,0.0273274664196
+United Air Lines Inc.,07/10/01,0.0300786672837
+United Air Lines Inc.,07/11/01,0.0231481481481
+United Air Lines Inc.,07/12/01,0.0268394261916
+United Air Lines Inc.,07/13/01,0.0166435506241
+United Air Lines Inc.,07/14/01,0.0208839242351
+United Air Lines Inc.,07/15/01,0.00854295206455
+United Air Lines Inc.,07/16/01,0.0296022201665
+United Air Lines Inc.,07/17/01,0.0370027752081
+United Air Lines Inc.,07/18/01,0.0402405180389
+United Air Lines Inc.,07/19/01,0.0217391304348
+United Air Lines Inc.,07/20/01,0.0175763182239
+United Air Lines Inc.,07/21/01,0.0398251578436
+United Air Lines Inc.,07/22/01,0.031798766018
+United Air Lines Inc.,07/23/01,0.063829787234
+United Air Lines Inc.,07/24/01,0.0425531914894
+United Air Lines Inc.,07/25/01,0.0152636447734
+United Air Lines Inc.,07/26/01,0.0235892691952
+United Air Lines Inc.,07/27/01,0.0147874306839
+United Air Lines Inc.,07/28/01,0.0121300339641
+United Air Lines Inc.,07/29/01,0.0165641268339
+United Air Lines Inc.,07/30/01,0.0313653136531
+United Air Lines Inc.,07/31/01,0.0133825565298
+Delta Air Lines Inc.,07/02/01,0.0344541303445
+Delta Air Lines Inc.,07/03/01,0.0241171403962
+Delta Air Lines Inc.,07/04/01,0.0268146093389
+Delta Air Lines Inc.,07/05/01,0.0326547921968
+Delta Air Lines Inc.,07/06/01,0.0215857202159
+Delta Air Lines Inc.,07/07/01,0.00918196994992
+Delta Air Lines Inc.,07/08/01,0.0158069883527
+Delta Air Lines Inc.,07/09/01,0.0207039337474
+Delta Air Lines Inc.,07/10/01,0.0583850931677
+Delta Air Lines Inc.,07/11/01,0.0360397680199
+Delta Air Lines Inc.,07/12/01,0.0215499378367
+Delta Air Lines Inc.,07/13/01,0.0186258278146
+Delta Air Lines Inc.,07/14/01,0.0233236151603
+Delta Air Lines Inc.,07/15/01,0.0157872870794
+Delta Air Lines Inc.,07/16/01,0.0301528294093
+Delta Air Lines Inc.,07/17/01,0.0269151138716
+Delta Air Lines Inc.,07/18/01,0.027397260274
+Delta Air Lines Inc.,07/19/01,0.0161223646135
+Delta Air Lines Inc.,07/20/01,0.0157480314961
+Delta Air Lines Inc.,07/21/01,0.0205623164079
+Delta Air Lines Inc.,07/22/01,0.0120431893688
+Delta Air Lines Inc.,07/23/01,0.0269039735099
+Delta Air Lines Inc.,07/24/01,0.0257261410788
+Delta Air Lines Inc.,07/25/01,0.036454018227
+Delta Air Lines Inc.,07/26/01,0.048132780083
+Delta Air Lines Inc.,07/27/01,0.0241465445462
+Delta Air Lines Inc.,07/28/01,0.0162567736557
+Delta Air Lines Inc.,07/29/01,0.0170407315046
+Delta Air Lines Inc.,07/30/01,0.0290577002906
+Delta Air Lines Inc.,07/31/01,0.0298755186722
+Delta Air Lines Inc.,07/01/01,0.0686927560366
+American Eagle Airlines Inc.,07/01/01,0.137481910275
+American Eagle Airlines Inc.,07/02/01,0.0497581202488
+American Eagle Airlines Inc.,07/03/01,0.049062049062
+American Eagle Airlines Inc.,07/04/01,0.027989821883
+American Eagle Airlines Inc.,07/05/01,0.0266106442577
+American Eagle Airlines Inc.,07/06/01,0.039446366782
+American Eagle Airlines Inc.,07/07/01,0.00724054706356
+American Eagle Airlines Inc.,07/08/01,0.0482014388489
+American Eagle Airlines Inc.,07/09/01,0.0483425414365
+American Eagle Airlines Inc.,07/10/01,0.0719723183391
+American Eagle Airlines Inc.,07/11/01,0.039391845197
+American Eagle Airlines Inc.,07/12/01,0.0373443983402
+American Eagle Airlines Inc.,07/13/01,0.0366022099448
+American Eagle Airlines Inc.,07/14/01,0.0313757039421
+American Eagle Airlines Inc.,07/15/01,0.0258992805755
+American Eagle Airlines Inc.,07/16/01,0.0310344827586
+American Eagle Airlines Inc.,07/17/01,0.0492713393477
+American Eagle Airlines Inc.,07/18/01,0.060773480663
+American Eagle Airlines Inc.,07/19/01,0.0394190871369
+American Eagle Airlines Inc.,07/20/01,0.0359364201797
+American Eagle Airlines Inc.,07/21/01,0.0314516129032
+American Eagle Airlines Inc.,07/22/01,0.0771449170872
+American Eagle Airlines Inc.,07/23/01,0.107958477509
+American Eagle Airlines Inc.,07/24/01,0.0339335180055
+American Eagle Airlines Inc.,07/25/01,0.0573600552868
+American Eagle Airlines Inc.,07/26/01,0.0593922651934
+American Eagle Airlines Inc.,07/27/01,0.0200414651002
+American Eagle Airlines Inc.,07/28/01,0.0169082125604
+American Eagle Airlines Inc.,07/29/01,0.0266762797404
+American Eagle Airlines Inc.,07/30/01,0.0200276243094
+American Eagle Airlines Inc.,07/31/01,0.0152249134948
+American Airlines Inc.,07/01/01,0.0514313440078
+American Airlines Inc.,07/02/01,0.0292867264998
+American Airlines Inc.,07/03/01,0.0200573065903
+American Airlines Inc.,07/04/01,0.0215475024486
+American Airlines Inc.,07/05/01,0.0171591992374
+American Airlines Inc.,07/06/01,0.0285446888161
+American Airlines Inc.,07/08/01,0.0106177606178
+American Airlines Inc.,07/09/01,0.0154566744731
+American Airlines Inc.,07/10/01,0.0281162136832
+American Airlines Inc.,07/11/01,0.0286116322702
+American Airlines Inc.,07/12/01,0.0201310861423
+American Airlines Inc.,07/13/01,0.0243217960711
+American Airlines Inc.,07/15/01,0.0101400289715
+American Airlines Inc.,07/16/01,0.0182584269663
+American Airlines Inc.,07/17/01,0.0379213483146
+American Airlines Inc.,07/18/01,0.0234301780694
+American Airlines Inc.,07/19/01,0.0182584269663
+American Airlines Inc.,07/20/01,0.0201310861423
+American Airlines Inc.,07/22/01,0.0251207729469
+American Airlines Inc.,07/23/01,0.0647279549719
+American Airlines Inc.,07/24/01,0.0416861826698
+American Airlines Inc.,07/25/01,0.0346766635426
+American Airlines Inc.,07/26/01,0.0285446888161
+American Airlines Inc.,07/27/01,0.0126463700234
+American Airlines Inc.,07/29/01,0.00917431192661
+American Airlines Inc.,07/30/01,0.058106841612
+American Airlines Inc.,07/31/01,0.023932426091
+American Airlines Inc.,07/07/01,0.0187469166256
+American Airlines Inc.,07/14/01,0.0142998027613
+American Airlines Inc.,07/21/01,0.0320829220138
+American Airlines Inc.,07/28/01,0.0152935372472
+Continental Air Lines Inc.,07/01/01,0.0486593843098
+Continental Air Lines Inc.,07/02/01,0.00735294117647
+Continental Air Lines Inc.,07/03/01,0.00326441784548
+Continental Air Lines Inc.,07/04/01,0.00111982082867
+Continental Air Lines Inc.,07/05/01,0.0068359375
+Continental Air Lines Inc.,07/06/01,0.00555555555556
+Continental Air Lines Inc.,07/07/01,0.0
+Continental Air Lines Inc.,07/08/01,0.00660377358491
+Continental Air Lines Inc.,07/09/01,0.0102827763496
+Continental Air Lines Inc.,07/10/01,0.0335051546392
+Continental Air Lines Inc.,07/11/01,0.0146551724138
+Continental Air Lines Inc.,07/12/01,0.00937766410912
+Continental Air Lines Inc.,07/13/01,0.00764006791171
+Continental Air Lines Inc.,07/14/01,0.0113765642776
+Continental Air Lines Inc.,07/15/01,0.00845864661654
+Continental Air Lines Inc.,07/16/01,0.0111016225448
+Continental Air Lines Inc.,07/17/01,0.0162671232877
+Continental Air Lines Inc.,07/18/01,0.00343642611684
+Continental Air Lines Inc.,07/19/01,0.00679694137638
+Continental Air Lines Inc.,07/20/01,0.00677966101695
+Continental Air Lines Inc.,07/21/01,0.00454545454545
+Continental Air Lines Inc.,07/22/01,0.00281690140845
+Continental Air Lines Inc.,07/23/01,0.0136402387042
+Continental Air Lines Inc.,07/24/01,0.00512820512821
+Continental Air Lines Inc.,07/25/01,0.0120068610635
+Continental Air Lines Inc.,07/26/01,0.0203908241291
+Continental Air Lines Inc.,07/27/01,0.00593220338983
+Continental Air Lines Inc.,07/28/01,0.00340909090909
+Continental Air Lines Inc.,07/29/01,0.0093896713615
+Continental Air Lines Inc.,07/30/01,0.0187553282182
+Continental Air Lines Inc.,07/31/01,0.0034188034188
+US Airways Inc.,08/01/01,0.00538160469667
+US Airways Inc.,08/02/01,0.0201078960275
+US Airways Inc.,08/03/01,0.0235178833905
+US Airways Inc.,08/05/01,0.0211267605634
+US Airways Inc.,08/06/01,0.0122428991185
+US Airways Inc.,08/07/01,0.0107737512243
+US Airways Inc.,08/08/01,0.0171400587659
+US Airways Inc.,08/09/01,0.0127576054956
+US Airways Inc.,08/10/01,0.11263467189
+US Airways Inc.,08/12/01,0.0508048289738
+US Airways Inc.,08/13/01,0.0832925036747
+US Airways Inc.,08/14/01,0.0205680705191
+US Airways Inc.,08/15/01,0.0200980392157
+US Airways Inc.,08/16/01,0.0146914789422
+US Airways Inc.,08/17/01,0.0161764705882
+US Airways Inc.,08/19/01,0.00864260294865
+US Airways Inc.,08/20/01,0.0206998521439
+US Airways Inc.,08/21/01,0.0123213405619
+US Airways Inc.,08/22/01,0.00789733464956
+US Airways Inc.,08/23/01,0.0133070478068
+US Airways Inc.,08/24/01,0.0133136094675
+US Airways Inc.,08/25/01,0.0133832976445
+US Airways Inc.,08/26/01,0.0136432541688
+US Airways Inc.,08/27/01,0.0394282897979
+US Airways Inc.,08/28/01,0.05960591133
+US Airways Inc.,08/29/01,0.00888011840158
+US Airways Inc.,08/30/01,0.026134122288
+US Airways Inc.,08/31/01,0.0463282405126
+US Airways Inc.,08/04/01,0.0270127118644
+US Airways Inc.,08/11/01,0.0620689655172
+US Airways Inc.,08/18/01,0.0180658873539
+United Air Lines Inc.,08/01/01,0.0138185168125
+United Air Lines Inc.,08/02/01,0.0658682634731
+United Air Lines Inc.,08/03/01,0.0294523699954
+United Air Lines Inc.,08/04/01,0.0169163847269
+United Air Lines Inc.,08/05/01,0.0118091639112
+United Air Lines Inc.,08/06/01,0.0202578268877
+United Air Lines Inc.,08/07/01,0.0253339474896
+United Air Lines Inc.,08/08/01,0.0253222836096
+United Air Lines Inc.,08/09/01,0.0326887661142
+United Air Lines Inc.,08/10/01,0.049953746531
+United Air Lines Inc.,08/11/01,0.0227602905569
+United Air Lines Inc.,08/12/01,0.023178807947
+United Air Lines Inc.,08/13/01,0.031797235023
+United Air Lines Inc.,08/14/01,0.0202764976959
+United Air Lines Inc.,08/15/01,0.0133640552995
+United Air Lines Inc.,08/16/01,0.0129151291513
+United Air Lines Inc.,08/17/01,0.00968188105118
+United Air Lines Inc.,08/18/01,0.0179003386551
+United Air Lines Inc.,08/19/01,0.0127840909091
+United Air Lines Inc.,08/20/01,0.0364223144306
+United Air Lines Inc.,08/21/01,0.0285846011987
+United Air Lines Inc.,08/22/01,0.0783410138249
+United Air Lines Inc.,08/23/01,0.029520295203
+United Air Lines Inc.,08/24/01,0.0327188940092
+United Air Lines Inc.,08/25/01,0.0372340425532
+United Air Lines Inc.,08/26/01,0.0132262635805
+United Air Lines Inc.,08/27/01,0.0317679558011
+United Air Lines Inc.,08/28/01,0.0331644403501
+United Air Lines Inc.,08/29/01,0.0244014732965
+United Air Lines Inc.,08/30/01,0.0377880184332
+United Air Lines Inc.,08/31/01,0.0464367816092
+Delta Air Lines Inc.,08/26/01,0.0157284768212
+Delta Air Lines Inc.,08/27/01,0.0360547036884
+Delta Air Lines Inc.,08/28/01,0.029702970297
+Delta Air Lines Inc.,08/29/01,0.015708970649
+Delta Air Lines Inc.,08/30/01,0.0219917012448
+Delta Air Lines Inc.,08/31/01,0.0244711737868
+Delta Air Lines Inc.,08/01/01,0.0231884057971
+Delta Air Lines Inc.,08/02/01,0.0335126189491
+Delta Air Lines Inc.,08/03/01,0.0264462809917
+Delta Air Lines Inc.,08/04/01,0.0374843815077
+Delta Air Lines Inc.,08/05/01,0.0199335548173
+Delta Air Lines Inc.,08/06/01,0.0219370860927
+Delta Air Lines Inc.,08/07/01,0.0280759702725
+Delta Air Lines Inc.,08/08/01,0.0317919075145
+Delta Air Lines Inc.,08/09/01,0.0334987593052
+Delta Air Lines Inc.,08/10/01,0.0730198019802
+Delta Air Lines Inc.,08/11/01,0.0532889258951
+Delta Air Lines Inc.,08/12/01,0.0343827671914
+Delta Air Lines Inc.,08/13/01,0.0629139072848
+Delta Air Lines Inc.,08/14/01,0.0251650165017
+Delta Air Lines Inc.,08/15/01,0.0223232740802
+Delta Air Lines Inc.,08/16/01,0.0214876033058
+Delta Air Lines Inc.,08/17/01,0.028901734104
+Delta Air Lines Inc.,08/18/01,0.0379641218189
+Delta Air Lines Inc.,08/19/01,0.0178201409034
+Delta Air Lines Inc.,08/20/01,0.0297520661157
+Delta Air Lines Inc.,08/21/01,0.0239175257732
+Delta Air Lines Inc.,08/22/01,0.0226804123711
+Delta Air Lines Inc.,08/23/01,0.0215053763441
+Delta Air Lines Inc.,08/24/01,0.0148576145274
+Delta Air Lines Inc.,08/25/01,0.0175145954962
+American Eagle Airlines Inc.,08/01/01,0.0236275191105
+American Eagle Airlines Inc.,08/02/01,0.100139082058
+American Eagle Airlines Inc.,08/03/01,0.0514961725818
+American Eagle Airlines Inc.,08/04/01,0.0501193317422
+American Eagle Airlines Inc.,08/05/01,0.0382395382395
+American Eagle Airlines Inc.,08/06/01,0.0166898470097
+American Eagle Airlines Inc.,08/07/01,0.0208768267223
+American Eagle Airlines Inc.,08/08/01,0.0159833217512
+American Eagle Airlines Inc.,08/09/01,0.0632823365786
+American Eagle Airlines Inc.,08/10/01,0.107391910739
+American Eagle Airlines Inc.,08/11/01,0.0509554140127
+American Eagle Airlines Inc.,08/12/01,0.0511896178803
+American Eagle Airlines Inc.,08/13/01,0.0901525658807
+American Eagle Airlines Inc.,08/14/01,0.0278357689631
+American Eagle Airlines Inc.,08/15/01,0.0347463516331
+American Eagle Airlines Inc.,08/16/01,0.0299234516354
+American Eagle Airlines Inc.,08/17/01,0.0779944289694
+American Eagle Airlines Inc.,08/18/01,0.0381861575179
+American Eagle Airlines Inc.,08/19/01,0.0296242774566
+American Eagle Airlines Inc.,08/20/01,0.0496551724138
+American Eagle Airlines Inc.,08/21/01,0.0722145804677
+American Eagle Airlines Inc.,08/22/01,0.119752236752
+American Eagle Airlines Inc.,08/23/01,0.0521978021978
+American Eagle Airlines Inc.,08/24/01,0.0419243986254
+American Eagle Airlines Inc.,08/25/01,0.0646687697161
+American Eagle Airlines Inc.,08/26/01,0.046362339515
+American Eagle Airlines Inc.,08/27/01,0.0852819807428
+American Eagle Airlines Inc.,08/28/01,0.0591878871301
+American Eagle Airlines Inc.,08/29/01,0.0226960110041
+American Eagle Airlines Inc.,08/30/01,0.0674931129477
+American Eagle Airlines Inc.,08/31/01,0.0776632302405
+American Airlines Inc.,08/01/01,0.0215658696671
+American Airlines Inc.,08/02/01,0.0695611577965
+American Airlines Inc.,08/03/01,0.0182413470533
+American Airlines Inc.,08/05/01,0.0115718418515
+American Airlines Inc.,08/06/01,0.0149602618046
+American Airlines Inc.,08/07/01,0.0317905563347
+American Airlines Inc.,08/08/01,0.0242990654206
+American Airlines Inc.,08/09/01,0.0443303779748
+American Airlines Inc.,08/10/01,0.0523854069224
+American Airlines Inc.,08/12/01,0.0270139893874
+American Airlines Inc.,08/13/01,0.0416861826698
+American Airlines Inc.,08/14/01,0.0256889304064
+American Airlines Inc.,08/15/01,0.0229508196721
+American Airlines Inc.,08/16/01,0.0294530154278
+American Airlines Inc.,08/17/01,0.0778246601031
+American Airlines Inc.,08/19/01,0.0135069946937
+American Airlines Inc.,08/20/01,0.023887587822
+American Airlines Inc.,08/21/01,0.0285313376988
+American Airlines Inc.,08/22/01,0.0725995316159
+American Airlines Inc.,08/23/01,0.0257249766137
+American Airlines Inc.,08/24/01,0.0206088992974
+American Airlines Inc.,08/26/01,0.0183486238532
+American Airlines Inc.,08/27/01,0.0449859418932
+American Airlines Inc.,08/28/01,0.0449227889565
+American Airlines Inc.,08/29/01,0.0205992509363
+American Airlines Inc.,08/30/01,0.0271281571562
+American Airlines Inc.,08/31/01,0.0364315740308
+American Airlines Inc.,08/04/01,0.0202869866403
+American Airlines Inc.,08/11/01,0.0522682445759
+American Airlines Inc.,08/18/01,0.0336800396236
+American Airlines Inc.,08/25/01,0.0356259277585
+Continental Air Lines Inc.,08/01/01,0.00255754475703
+Continental Air Lines Inc.,08/02/01,0.00592216582064
+Continental Air Lines Inc.,08/03/01,0.0101095197978
+Continental Air Lines Inc.,08/04/01,0.0045197740113
+Continental Air Lines Inc.,08/05/01,0.0093370681606
+Continental Air Lines Inc.,08/06/01,0.0169779286927
+Continental Air Lines Inc.,08/07/01,0.0144557823129
+Continental Air Lines Inc.,08/08/01,0.00255754475703
+Continental Air Lines Inc.,08/09/01,0.00253378378378
+Continental Air Lines Inc.,08/10/01,0.0514333895447
+Continental Air Lines Inc.,08/11/01,0.00564971751412
+Continental Air Lines Inc.,08/12/01,0.0102516309413
+Continental Air Lines Inc.,08/13/01,0.0505050505051
+Continental Air Lines Inc.,08/14/01,0.0118243243243
+Continental Air Lines Inc.,08/15/01,0.0
+Continental Air Lines Inc.,08/16/01,0.00167785234899
+Continental Air Lines Inc.,08/17/01,0.00669456066946
+Continental Air Lines Inc.,08/18/01,0.0011273957159
+Continental Air Lines Inc.,08/19/01,0.00743494423792
+Continental Air Lines Inc.,08/20/01,0.0067283431455
+Continental Air Lines Inc.,08/21/01,0.00844594594595
+Continental Air Lines Inc.,08/22/01,0.0160744500846
+Continental Air Lines Inc.,08/23/01,0.0125628140704
+Continental Air Lines Inc.,08/24/01,0.00918196994992
+Continental Air Lines Inc.,08/25/01,0.00899887514061
+Continental Air Lines Inc.,08/26/01,0.00463821892393
+Continental Air Lines Inc.,08/27/01,0.0327455919395
+Continental Air Lines Inc.,08/28/01,0.0463743676223
+Continental Air Lines Inc.,08/29/01,0.0177514792899
+Continental Air Lines Inc.,08/30/01,0.00670016750419
+Continental Air Lines Inc.,08/31/01,0.0369127516779
+US Airways Inc.,09/05/01,0.00789343857918
+US Airways Inc.,09/06/01,0.0054347826087
+US Airways Inc.,09/07/01,0.0207305034551
+US Airways Inc.,09/08/01,0.0199891950297
+US Airways Inc.,09/10/01,0.0558912386707
+US Airways Inc.,09/11/01,0.805541561713
+US Airways Inc.,09/12/01,1.0
+US Airways Inc.,09/13/01,0.907854984894
+US Airways Inc.,09/14/01,0.622793746848
+US Airways Inc.,09/17/01,0.229524772497
+US Airways Inc.,09/18/01,0.21435793731
+US Airways Inc.,09/19/01,0.221659919028
+US Airways Inc.,09/20/01,0.22081859525
+US Airways Inc.,09/21/01,0.291203235592
+US Airways Inc.,09/24/01,0.342770475228
+US Airways Inc.,09/25/01,0.313259109312
+US Airways Inc.,09/27/01,0.223333333333
+US Airways Inc.,09/01/01,0.018949648078
+US Airways Inc.,09/03/01,0.0040020010005
+US Airways Inc.,09/04/01,0.0345508390918
+US Airways Inc.,09/02/01,0.0119047619048
+US Airways Inc.,09/09/01,0.0104058272633
+US Airways Inc.,09/15/01,0.470685840708
+US Airways Inc.,09/16/01,0.391575663027
+US Airways Inc.,09/22/01,0.393805309735
+US Airways Inc.,09/23/01,0.317898022893
+US Airways Inc.,09/26/01,0.299443601416
+US Airways Inc.,09/29/01,0.352673492605
+US Airways Inc.,09/28/01,0.0773620798985
+US Airways Inc.,09/30/01,0.108532423208
+United Air Lines Inc.,09/01/01,0.0110916520724
+United Air Lines Inc.,09/02/01,0.00336021505376
+United Air Lines Inc.,09/03/01,0.00647732934728
+United Air Lines Inc.,09/04/01,0.0212765957447
+United Air Lines Inc.,09/05/01,0.0191409897292
+United Air Lines Inc.,09/06/01,0.0232666356445
+United Air Lines Inc.,09/07/01,0.0577012563983
+United Air Lines Inc.,09/08/01,0.0481389578164
+United Air Lines Inc.,09/09/01,0.014968614196
+United Air Lines Inc.,09/10/01,0.0335039553281
+United Air Lines Inc.,09/11/01,0.881805490926
+United Air Lines Inc.,09/12/01,1.0
+United Air Lines Inc.,09/13/01,1.0
+United Air Lines Inc.,09/14/01,0.829688227082
+United Air Lines Inc.,09/15/01,0.798907646475
+United Air Lines Inc.,09/16/01,0.745656370656
+United Air Lines Inc.,09/17/01,0.576279069767
+United Air Lines Inc.,09/18/01,0.495348837209
+United Air Lines Inc.,09/19/01,0.22
+United Air Lines Inc.,09/20/01,0.203350395533
+United Air Lines Inc.,09/21/01,0.197582519758
+United Air Lines Inc.,09/22/01,0.188772975658
+United Air Lines Inc.,09/23/01,0.177949709865
+United Air Lines Inc.,09/24/01,0.0239316239316
+United Air Lines Inc.,09/29/01,0.00911854103343
+United Air Lines Inc.,09/30/01,0.00371057513915
+United Air Lines Inc.,09/25/01,0.0273816314889
+United Air Lines Inc.,09/26/01,0.0250569476082
+United Air Lines Inc.,09/27/01,0.0199203187251
+United Air Lines Inc.,09/28/01,0.0222729868646
+Delta Air Lines Inc.,09/16/01,0.167578947368
+Delta Air Lines Inc.,09/17/01,0.1704303366
+Delta Air Lines Inc.,09/18/01,0.148400852878
+Delta Air Lines Inc.,09/19/01,0.165031982942
+Delta Air Lines Inc.,09/20/01,0.150107526882
+Delta Air Lines Inc.,09/21/01,0.140052356021
+Delta Air Lines Inc.,09/22/01,0.137869292748
+Delta Air Lines Inc.,09/23/01,0.12969588551
+Delta Air Lines Inc.,09/24/01,0.112107623318
+Delta Air Lines Inc.,09/25/01,0.106866757617
+Delta Air Lines Inc.,09/26/01,0.100045475216
+Delta Air Lines Inc.,09/27/01,0.06
+Delta Air Lines Inc.,09/28/01,0.01883986118
+Delta Air Lines Inc.,09/01/01,0.012671594509
+Delta Air Lines Inc.,09/02/01,0.00695559122525
+Delta Air Lines Inc.,09/03/01,0.0045871559633
+Delta Air Lines Inc.,09/04/01,0.0254697286013
+Delta Air Lines Inc.,09/05/01,0.0217118997912
+Delta Air Lines Inc.,09/06/01,0.0204763894693
+Delta Air Lines Inc.,09/07/01,0.0125575554625
+Delta Air Lines Inc.,09/08/01,0.0244210526316
+Delta Air Lines Inc.,09/09/01,0.0109197816044
+Delta Air Lines Inc.,09/10/01,0.0476787954831
+Delta Air Lines Inc.,09/11/01,0.824194223524
+Delta Air Lines Inc.,09/12/01,1.0
+Delta Air Lines Inc.,09/13/01,0.805357890331
+Delta Air Lines Inc.,09/14/01,0.51129707113
+Delta Air Lines Inc.,09/15/01,0.291754756871
+Delta Air Lines Inc.,09/29/01,0.0145655449523
+Delta Air Lines Inc.,09/30/01,0.0244755244755
+American Eagle Airlines Inc.,09/01/01,0.0405629139073
+American Eagle Airlines Inc.,09/02/01,0.0373608903021
+American Eagle Airlines Inc.,09/03/01,0.0610526315789
+American Eagle Airlines Inc.,09/04/01,0.0607315389924
+American Eagle Airlines Inc.,09/05/01,0.00887372013652
+American Eagle Airlines Inc.,09/06/01,0.0407885791978
+American Eagle Airlines Inc.,09/07/01,0.100886162236
+American Eagle Airlines Inc.,09/08/01,0.0255615801704
+American Eagle Airlines Inc.,09/09/01,0.0552407932011
+American Eagle Airlines Inc.,09/10/01,0.092328581127
+American Eagle Airlines Inc.,09/11/01,0.845528455285
+American Eagle Airlines Inc.,09/12/01,1.0
+American Eagle Airlines Inc.,09/13/01,0.894308943089
+American Eagle Airlines Inc.,09/14/01,0.556533513879
+American Eagle Airlines Inc.,09/15/01,0.24865694551
+American Eagle Airlines Inc.,09/16/01,0.0933988764045
+American Eagle Airlines Inc.,09/17/01,0.10162601626
+American Eagle Airlines Inc.,09/18/01,0.114266396214
+American Eagle Airlines Inc.,09/19/01,0.183108108108
+American Eagle Airlines Inc.,09/20/01,0.220796758947
+American Eagle Airlines Inc.,09/21/01,0.214044564483
+American Eagle Airlines Inc.,09/22/01,0.221028396009
+American Eagle Airlines Inc.,09/23/01,0.217849613493
+American Eagle Airlines Inc.,09/24/01,0.220796758947
+American Eagle Airlines Inc.,09/25/01,0.208108108108
+American Eagle Airlines Inc.,09/26/01,0.230769230769
+American Eagle Airlines Inc.,09/27/01,0.2334682861
+American Eagle Airlines Inc.,09/28/01,0.233625928427
+American Eagle Airlines Inc.,09/29/01,0.236196319018
+American Eagle Airlines Inc.,09/30/01,0.247719298246
+American Airlines Inc.,09/02/01,0.0162436548223
+American Airlines Inc.,09/03/01,0.0115718418515
+American Airlines Inc.,09/04/01,0.0441314553991
+American Airlines Inc.,09/05/01,0.0340909090909
+American Airlines Inc.,09/06/01,0.0202543570419
+American Airlines Inc.,09/07/01,0.0575200377181
+American Airlines Inc.,09/08/01,0.0430051813472
+American Airlines Inc.,09/09/01,0.015188633023
+American Airlines Inc.,09/10/01,0.0335856196783
+American Airlines Inc.,09/11/01,0.862200956938
+American Airlines Inc.,09/12/01,1.0
+American Airlines Inc.,09/13/01,0.934185606061
+American Airlines Inc.,09/14/01,0.637673425827
+American Airlines Inc.,09/15/01,0.527303754266
+American Airlines Inc.,09/16/01,0.302580999451
+American Airlines Inc.,09/17/01,0.298133333333
+American Airlines Inc.,09/18/01,0.304904051173
+American Airlines Inc.,09/19/01,0.304533333333
+American Airlines Inc.,09/20/01,0.299787007455
+American Airlines Inc.,09/21/01,0.297225186766
+American Airlines Inc.,09/22/01,0.289608177172
+American Airlines Inc.,09/23/01,0.010582010582
+American Airlines Inc.,09/24/01,0.00505689001264
+American Airlines Inc.,09/25/01,0.00568900126422
+American Airlines Inc.,09/26/01,0.00190114068441
+American Airlines Inc.,09/27/01,0.00253004427577
+American Airlines Inc.,09/28/01,0.00632511068944
+American Airlines Inc.,09/29/01,0.00267737617135
+American Airlines Inc.,09/30/01,0.00262295081967
+American Airlines Inc.,09/01/01,0.0205696202532
+Continental Air Lines Inc.,09/01/01,0.00499375780275
+Continental Air Lines Inc.,09/02/01,0.00254129606099
+Continental Air Lines Inc.,09/03/01,0.0
+Continental Air Lines Inc.,09/04/01,0.021978021978
+Continental Air Lines Inc.,09/05/01,0.0247018739353
+Continental Air Lines Inc.,09/06/01,0.00522648083624
+Continental Air Lines Inc.,09/07/01,0.00690846286701
+Continental Air Lines Inc.,09/08/01,0.00132802124834
+Continental Air Lines Inc.,09/09/01,0.0256663376111
+Continental Air Lines Inc.,09/10/01,0.0497816593886
+Continental Air Lines Inc.,09/11/01,0.827248441674
+Continental Air Lines Inc.,09/12/01,0.999114260407
+Continental Air Lines Inc.,09/13/01,1.0
+Continental Air Lines Inc.,09/14/01,0.66955017301
+Continental Air Lines Inc.,09/15/01,0.487350199734
+Continental Air Lines Inc.,09/16/01,0.468904244817
+Continental Air Lines Inc.,09/17/01,0.171328671329
+Continental Air Lines Inc.,09/18/01,0.173642030276
+Continental Air Lines Inc.,09/19/01,0.185119574845
+Continental Air Lines Inc.,09/20/01,0.231846019248
+Continental Air Lines Inc.,09/21/01,0.221934369603
+Continental Air Lines Inc.,09/22/01,0.0990099009901
+Continental Air Lines Inc.,09/23/01,0.0835214446953
+Continental Air Lines Inc.,09/24/01,0.108273748723
+Continental Air Lines Inc.,09/25/01,0.101239669421
+Continental Air Lines Inc.,09/26/01,0.0247747747748
+Continental Air Lines Inc.,09/27/01,0.00568181818182
+Continental Air Lines Inc.,09/28/01,0.00895856662934
+Continental Air Lines Inc.,09/29/01,0.0141065830721
+Continental Air Lines Inc.,09/30/01,0.00943396226415
+US Airways Inc.,10/11/01,0.0241820768137
+US Airways Inc.,10/12/01,0.0226789510985
+US Airways Inc.,10/13/01,0.0501901140684
+US Airways Inc.,10/14/01,0.00890868596882
+US Airways Inc.,10/15/01,0.00359971202304
+US Airways Inc.,10/16/01,0.00793078586878
+US Airways Inc.,10/17/01,0.00359971202304
+US Airways Inc.,10/18/01,0.000720980533526
+US Airways Inc.,10/19/01,0.00143988480922
+US Airways Inc.,10/20/01,0.00157728706625
+US Airways Inc.,10/21/01,0.0
+US Airways Inc.,10/22/01,0.00360490266763
+US Airways Inc.,10/23/01,0.00648882480173
+US Airways Inc.,10/24/01,0.0122390208783
+US Airways Inc.,10/25/01,0.0028839221341
+US Airways Inc.,10/26/01,0.00210674157303
+US Airways Inc.,10/27/01,0.00850077279753
+US Airways Inc.,10/28/01,0.00361532899494
+US Airways Inc.,10/29/01,0.00140548137737
+US Airways Inc.,10/30/01,0.00211118930331
+US Airways Inc.,10/31/01,0.00774102744546
+US Airways Inc.,10/01/01,0.0186513629842
+US Airways Inc.,10/02/01,0.0142959256612
+US Airways Inc.,10/03/01,0.0128847530422
+US Airways Inc.,10/04/01,0.0127208480565
+US Airways Inc.,10/05/01,0.00774647887324
+US Airways Inc.,10/06/01,0.0887154009936
+US Airways Inc.,10/07/01,0.0224550898204
+US Airways Inc.,10/08/01,0.0227758007117
+US Airways Inc.,10/09/01,0.0234541577825
+US Airways Inc.,10/10/01,0.0220170454545
+United Air Lines Inc.,10/01/01,0.00179104477612
+United Air Lines Inc.,10/02/01,0.00834326579261
+United Air Lines Inc.,10/03/01,0.0077288941736
+United Air Lines Inc.,10/04/01,0.00352733686067
+United Air Lines Inc.,10/05/01,0.00176470588235
+United Air Lines Inc.,10/06/01,0.00559353635799
+United Air Lines Inc.,10/07/01,0.00239664469742
+United Air Lines Inc.,10/08/01,0.00354609929078
+United Air Lines Inc.,10/09/01,0.00595947556615
+United Air Lines Inc.,10/10/01,0.00357568533969
+United Air Lines Inc.,10/11/01,0.0017793594306
+United Air Lines Inc.,10/12/01,0.00415430267062
+United Air Lines Inc.,10/13/01,0.0225281602003
+United Air Lines Inc.,10/14/01,0.0132770066385
+United Air Lines Inc.,10/15/01,0.01249256395
+United Air Lines Inc.,10/16/01,0.00655542312277
+United Air Lines Inc.,10/17/01,0.0077519379845
+United Air Lines Inc.,10/18/01,0.00477042337507
+United Air Lines Inc.,10/19/01,0.00238379022646
+United Air Lines Inc.,10/20/01,0.00689223057644
+United Air Lines Inc.,10/21/01,0.00182038834951
+United Air Lines Inc.,10/22/01,0.00416666666667
+United Air Lines Inc.,10/23/01,0.00536352800954
+United Air Lines Inc.,10/24/01,0.0226460071514
+United Air Lines Inc.,10/25/01,0.0208830548926
+United Air Lines Inc.,10/26/01,0.00477326968974
+United Air Lines Inc.,10/27/01,0.00756143667297
+United Air Lines Inc.,10/28/01,0.0024434941967
+United Air Lines Inc.,10/29/01,0.00178784266985
+United Air Lines Inc.,10/30/01,0.0100187852223
+United Air Lines Inc.,10/31/01,0.00436363636364
+Delta Air Lines Inc.,10/20/01,0.0135557872784
+Delta Air Lines Inc.,10/21/01,0.00363447559709
+Delta Air Lines Inc.,10/22/01,0.00461301896463
+Delta Air Lines Inc.,10/23/01,0.00615069195284
+Delta Air Lines Inc.,10/24/01,0.011788826243
+Delta Air Lines Inc.,10/25/01,0.00563813429011
+Delta Air Lines Inc.,10/26/01,0.00511508951407
+Delta Air Lines Inc.,10/27/01,0.00425305688464
+Delta Air Lines Inc.,10/28/01,0.00155682407888
+Delta Air Lines Inc.,10/29/01,0.00507872016252
+Delta Air Lines Inc.,10/30/01,0.00406297613002
+Delta Air Lines Inc.,10/31/01,0.0113519091847
+Delta Air Lines Inc.,10/01/01,0.0388151174668
+Delta Air Lines Inc.,10/02/01,0.0381873727088
+Delta Air Lines Inc.,10/03/01,0.026060296372
+Delta Air Lines Inc.,10/04/01,0.00361757105943
+Delta Air Lines Inc.,10/05/01,0.00206611570248
+Delta Air Lines Inc.,10/06/01,0.012539184953
+Delta Air Lines Inc.,10/07/01,0.00831600831601
+Delta Air Lines Inc.,10/08/01,0.00465838509317
+Delta Air Lines Inc.,10/09/01,0.00309437854564
+Delta Air Lines Inc.,10/10/01,0.00669068450849
+Delta Air Lines Inc.,10/11/01,0.00515198351365
+Delta Air Lines Inc.,10/12/01,0.0169927909372
+Delta Air Lines Inc.,10/13/01,0.0135487232934
+Delta Air Lines Inc.,10/14/01,0.00465838509317
+Delta Air Lines Inc.,10/15/01,0.00257997936017
+Delta Air Lines Inc.,10/16/01,0.00308483290488
+Delta Air Lines Inc.,10/17/01,0.00669068450849
+Delta Air Lines Inc.,10/18/01,0.0036026762738
+Delta Air Lines Inc.,10/19/01,0.00515198351365
+American Eagle Airlines Inc.,10/01/01,0.0372807017544
+American Eagle Airlines Inc.,10/02/01,0.0320699708455
+American Eagle Airlines Inc.,10/03/01,0.0422740524781
+American Eagle Airlines Inc.,10/04/01,0.0334302325581
+American Eagle Airlines Inc.,10/05/01,0.0786933927246
+American Eagle Airlines Inc.,10/06/01,0.0989010989011
+American Eagle Airlines Inc.,10/07/01,0.103235747304
+American Eagle Airlines Inc.,10/08/01,0.11013215859
+American Eagle Airlines Inc.,10/09/01,0.133044107014
+American Eagle Airlines Inc.,10/10/01,0.14161849711
+American Eagle Airlines Inc.,10/11/01,0.143682310469
+American Eagle Airlines Inc.,10/12/01,0.0706260032103
+American Eagle Airlines Inc.,10/13/01,0.0823529411765
+American Eagle Airlines Inc.,10/14/01,0.039934800326
+American Eagle Airlines Inc.,10/15/01,0.0413625304136
+American Eagle Airlines Inc.,10/16/01,0.0266558966074
+American Eagle Airlines Inc.,10/17/01,0.012077294686
+American Eagle Airlines Inc.,10/18/01,0.0185633575464
+American Eagle Airlines Inc.,10/19/01,0.0089358245329
+American Eagle Airlines Inc.,10/20/01,0.0132450331126
+American Eagle Airlines Inc.,10/21/01,0.0171086398631
+American Eagle Airlines Inc.,10/22/01,0.0101265822785
+American Eagle Airlines Inc.,10/23/01,0.0285714285714
+American Eagle Airlines Inc.,10/24/01,0.124031007752
+American Eagle Airlines Inc.,10/25/01,0.0589239965841
+American Eagle Airlines Inc.,10/26/01,0.0307429547395
+American Eagle Airlines Inc.,10/27/01,0.0172910662824
+American Eagle Airlines Inc.,10/28/01,0.00524017467249
+American Eagle Airlines Inc.,10/29/01,0.134873323398
+American Eagle Airlines Inc.,10/30/01,0.145958083832
+American Eagle Airlines Inc.,10/31/01,0.152352501867
+American Airlines Inc.,10/01/01,0.0337677725118
+American Airlines Inc.,10/02/01,0.0248373743347
+American Airlines Inc.,10/03/01,0.0248373743347
+American Airlines Inc.,10/04/01,0.0112359550562
+American Airlines Inc.,10/05/01,0.0154028436019
+American Airlines Inc.,10/06/01,0.01
+American Airlines Inc.,10/07/01,0.0030432136336
+American Airlines Inc.,10/08/01,0.00650887573964
+American Airlines Inc.,10/09/01,0.00826934435913
+American Airlines Inc.,10/10/01,0.00710479573712
+American Airlines Inc.,10/11/01,0.00945626477541
+American Airlines Inc.,10/12/01,0.0237388724036
+American Airlines Inc.,10/13/01,0.0421836228288
+American Airlines Inc.,10/14/01,0.0176613885505
+American Airlines Inc.,10/15/01,0.010650887574
+American Airlines Inc.,10/16/01,0.0106382978723
+American Airlines Inc.,10/17/01,0.0094674556213
+American Airlines Inc.,10/18/01,0.00531914893617
+American Airlines Inc.,10/19/01,0.00651658767773
+American Airlines Inc.,10/20/01,0.0111317254174
+American Airlines Inc.,10/21/01,0.00486914181376
+American Airlines Inc.,10/22/01,0.0100591715976
+American Airlines Inc.,10/23/01,0.0171293561725
+American Airlines Inc.,10/24/01,0.0550621669627
+American Airlines Inc.,10/25/01,0.0247933884298
+American Airlines Inc.,10/26/01,0.00763358778626
+American Airlines Inc.,10/27/01,0.02457002457
+American Airlines Inc.,10/28/01,0.00785498489426
+American Airlines Inc.,10/29/01,0.00704638872578
+American Airlines Inc.,10/30/01,0.0129032258065
+American Airlines Inc.,10/31/01,0.0100235849057
+Continental Air Lines Inc.,10/01/01,0.0373216245884
+Continental Air Lines Inc.,10/02/01,0.0489432703003
+Continental Air Lines Inc.,10/03/01,0.0456570155902
+Continental Air Lines Inc.,10/04/01,0.0229508196721
+Continental Air Lines Inc.,10/05/01,0.0
+Continental Air Lines Inc.,10/06/01,0.00153846153846
+Continental Air Lines Inc.,10/07/01,0.00241254523522
+Continental Air Lines Inc.,10/08/01,0.00111482720178
+Continental Air Lines Inc.,10/09/01,0.0
+Continental Air Lines Inc.,10/10/01,0.0
+Continental Air Lines Inc.,10/11/01,0.0110741971207
+Continental Air Lines Inc.,10/12/01,0.00662251655629
+Continental Air Lines Inc.,10/13/01,0.00304414003044
+Continental Air Lines Inc.,10/14/01,0.0024154589372
+Continental Air Lines Inc.,10/15/01,0.00334448160535
+Continental Air Lines Inc.,10/16/01,0.0
+Continental Air Lines Inc.,10/17/01,0.00227272727273
+Continental Air Lines Inc.,10/18/01,0.0
+Continental Air Lines Inc.,10/19/01,0.00110497237569
+Continental Air Lines Inc.,10/20/01,0.0
+Continental Air Lines Inc.,10/21/01,0.0
+Continental Air Lines Inc.,10/22/01,0.0
+Continental Air Lines Inc.,10/23/01,0.00113636363636
+Continental Air Lines Inc.,10/24/01,0.00456621004566
+Continental Air Lines Inc.,10/25/01,0.00110987791343
+Continental Air Lines Inc.,10/26/01,0.0
+Continental Air Lines Inc.,10/27/01,0.0
+Continental Air Lines Inc.,10/28/01,0.00239520958084
+Continental Air Lines Inc.,10/29/01,0.0
+Continental Air Lines Inc.,10/30/01,0.00224971878515
+Continental Air Lines Inc.,10/31/01,0.00227014755959
+US Airways Inc.,11/13/01,0.00311915159077
+US Airways Inc.,11/14/01,0.00187149095446
+US Airways Inc.,11/15/01,0.00124766063631
+US Airways Inc.,11/16/01,0.00187032418953
+US Airways Inc.,11/17/01,0.0106524633822
+US Airways Inc.,11/18/01,0.00772698003863
+US Airways Inc.,11/19/01,0.00686641697878
+US Airways Inc.,11/20/01,0.00187149095446
+US Airways Inc.,11/21/01,0.0018691588785
+US Airways Inc.,11/22/01,0.0132625994695
+US Airways Inc.,11/23/01,0.00766550522648
+US Airways Inc.,11/24/01,0.0131839156229
+US Airways Inc.,11/25/01,0.0166773572803
+US Airways Inc.,11/26/01,0.0124766063631
+US Airways Inc.,11/27/01,0.00561447286338
+US Airways Inc.,11/28/01,0.00374298190892
+US Airways Inc.,11/29/01,0.0093574547723
+US Airways Inc.,11/30/01,0.0199501246883
+US Airways Inc.,11/01/01,0.00419874037789
+US Airways Inc.,11/04/01,0.00261267145656
+US Airways Inc.,11/05/01,0.00873907615481
+US Airways Inc.,11/06/01,0.00187149095446
+US Airways Inc.,11/07/01,0.00124766063631
+US Airways Inc.,11/08/01,0.00249532127261
+US Airways Inc.,11/09/01,0.00124688279302
+US Airways Inc.,11/10/01,0.00398142003981
+US Airways Inc.,11/11/01,0.00449582530507
+US Airways Inc.,11/12/01,0.0499064254523
+US Airways Inc.,11/02/01,0.00350140056022
+US Airways Inc.,11/03/01,0.0121786197564
+United Air Lines Inc.,11/01/01,0.00403496973773
+United Air Lines Inc.,11/02/01,0.0033692722372
+United Air Lines Inc.,11/03/01,0.00794223826715
+United Air Lines Inc.,11/04/01,0.00543847722638
+United Air Lines Inc.,11/05/01,0.00538720538721
+United Air Lines Inc.,11/06/01,0.00606469002695
+United Air Lines Inc.,11/07/01,0.0040404040404
+United Air Lines Inc.,11/08/01,0.00538720538721
+United Air Lines Inc.,11/09/01,0.00605652759085
+United Air Lines Inc.,11/10/01,0.00578034682081
+United Air Lines Inc.,11/11/01,0.0
+United Air Lines Inc.,11/12/01,0.0154882154882
+United Air Lines Inc.,11/13/01,0.0013468013468
+United Air Lines Inc.,11/14/01,0.003367003367
+United Air Lines Inc.,11/15/01,0.0047138047138
+United Air Lines Inc.,11/16/01,0.00742240215924
+United Air Lines Inc.,11/17/01,0.00358937544867
+United Air Lines Inc.,11/18/01,0.00478796169631
+United Air Lines Inc.,11/19/01,0.00673400673401
+United Air Lines Inc.,11/20/01,0.0026936026936
+United Air Lines Inc.,11/21/01,0.00201884253028
+United Air Lines Inc.,11/22/01,0.00172562553926
+United Air Lines Inc.,11/23/01,0.00482625482625
+United Air Lines Inc.,11/24/01,0.0
+United Air Lines Inc.,11/25/01,0.0
+United Air Lines Inc.,11/26/01,0.000671591672263
+United Air Lines Inc.,11/27/01,0.0047138047138
+United Air Lines Inc.,11/28/01,0.00942760942761
+United Air Lines Inc.,11/29/01,0.00806993947545
+United Air Lines Inc.,11/30/01,0.00740242261104
+Delta Air Lines Inc.,11/28/01,0.0181728880157
+Delta Air Lines Inc.,11/29/01,0.00884520884521
+Delta Air Lines Inc.,11/30/01,0.0049504950495
+Delta Air Lines Inc.,11/01/01,0.00600300150075
+Delta Air Lines Inc.,11/02/01,0.00494559841741
+Delta Air Lines Inc.,11/03/01,0.00753768844221
+Delta Air Lines Inc.,11/04/01,0.00248880039821
+Delta Air Lines Inc.,11/05/01,0.0039331366765
+Delta Air Lines Inc.,11/06/01,0.00540806293019
+Delta Air Lines Inc.,11/07/01,0.00491642084562
+Delta Air Lines Inc.,11/08/01,0.00196656833825
+Delta Air Lines Inc.,11/09/01,0.0
+Delta Air Lines Inc.,11/10/01,0.0039980009995
+Delta Air Lines Inc.,11/11/01,0.00198609731877
+Delta Air Lines Inc.,11/12/01,0.0437561455261
+Delta Air Lines Inc.,11/13/01,0.00393507132317
+Delta Air Lines Inc.,11/14/01,0.00442477876106
+Delta Air Lines Inc.,11/15/01,0.00491642084562
+Delta Air Lines Inc.,11/16/01,0.165762210163
+Delta Air Lines Inc.,11/17/01,0.0686372745491
+Delta Air Lines Inc.,11/18/01,0.00396432111001
+Delta Air Lines Inc.,11/19/01,0.00639134709931
+Delta Air Lines Inc.,11/20/01,0.00589970501475
+Delta Air Lines Inc.,11/21/01,0.000984251968504
+Delta Air Lines Inc.,11/22/01,0.00147383935151
+Delta Air Lines Inc.,11/24/01,0.00476694915254
+Delta Air Lines Inc.,11/25/01,0.0059731209557
+Delta Air Lines Inc.,11/26/01,0.00196463654224
+Delta Air Lines Inc.,11/27/01,0.0034398034398
+Delta Air Lines Inc.,11/23/01,0.00450112528132
+American Eagle Airlines Inc.,11/01/01,0.0142857142857
+American Eagle Airlines Inc.,11/02/01,0.0199004975124
+American Eagle Airlines Inc.,11/03/01,0.0175097276265
+American Eagle Airlines Inc.,11/04/01,0.0176211453744
+American Eagle Airlines Inc.,11/05/01,0.0389072847682
+American Eagle Airlines Inc.,11/06/01,0.0141903171953
+American Eagle Airlines Inc.,11/07/01,0.0200166805671
+American Eagle Airlines Inc.,11/08/01,0.0141548709409
+American Eagle Airlines Inc.,11/09/01,0.0116472545757
+American Eagle Airlines Inc.,11/10/01,0.000986193293886
+American Eagle Airlines Inc.,11/11/01,0.0124444444444
+American Eagle Airlines Inc.,11/12/01,0.0699417152373
+American Eagle Airlines Inc.,11/13/01,0.0217209690894
+American Eagle Airlines Inc.,11/14/01,0.0142617449664
+American Eagle Airlines Inc.,11/15/01,0.03073089701
+American Eagle Airlines Inc.,11/16/01,0.0579950289975
+American Eagle Airlines Inc.,11/17/01,0.0437317784257
+American Eagle Airlines Inc.,11/18/01,0.0446584938704
+American Eagle Airlines Inc.,11/19/01,0.0556940980881
+American Eagle Airlines Inc.,11/20/01,0.0249376558603
+American Eagle Airlines Inc.,11/21/01,0.0173697270471
+American Eagle Airlines Inc.,11/22/01,0.00687285223368
+American Eagle Airlines Inc.,11/23/01,0.0169491525424
+American Eagle Airlines Inc.,11/24/01,0.0156709108717
+American Eagle Airlines Inc.,11/25/01,0.0130434782609
+American Eagle Airlines Inc.,11/26/01,0.0182876142976
+American Eagle Airlines Inc.,11/27/01,0.0258333333333
+American Eagle Airlines Inc.,11/28/01,0.120431893688
+American Eagle Airlines Inc.,11/29/01,0.0883333333333
+American Eagle Airlines Inc.,11/30/01,0.0549542048293
+American Airlines Inc.,11/01/01,0.00480192076831
+American Airlines Inc.,11/02/01,0.00702576112412
+American Airlines Inc.,11/03/01,0.010384850336
+American Airlines Inc.,11/04/01,0.00954084675015
+American Airlines Inc.,11/05/01,0.0146455770357
+American Airlines Inc.,11/06/01,0.00998238402819
+American Airlines Inc.,11/07/01,0.0052754982415
+American Airlines Inc.,11/08/01,0.00116959064327
+American Airlines Inc.,11/09/01,0.000585480093677
+American Airlines Inc.,11/10/01,0.00183262064753
+American Airlines Inc.,11/11/01,0.00239234449761
+American Airlines Inc.,11/12/01,0.0633431085044
+American Airlines Inc.,11/13/01,0.00586166471278
+American Airlines Inc.,11/14/01,0.00292911540715
+American Airlines Inc.,11/15/01,0.00762016412661
+American Airlines Inc.,11/16/01,0.00937866354045
+American Airlines Inc.,11/17/01,0.00244648318043
+American Airlines Inc.,11/18/01,0.0017931858936
+American Airlines Inc.,11/19/01,0.00352319436289
+American Airlines Inc.,11/20/01,0.000586854460094
+American Airlines Inc.,11/21/01,0.000586166471278
+American Airlines Inc.,11/22/01,0.00147275405007
+American Airlines Inc.,11/23/01,0.0
+American Airlines Inc.,11/24/01,0.0
+American Airlines Inc.,11/25/01,0.0
+American Airlines Inc.,11/26/01,0.0
+American Airlines Inc.,11/27/01,0.00763358778626
+American Airlines Inc.,11/28/01,0.1944608132
+American Airlines Inc.,11/29/01,0.0228873239437
+American Airlines Inc.,11/30/01,0.00705467372134
+Continental Air Lines Inc.,11/01/01,0.00212539851222
+Continental Air Lines Inc.,11/02/01,0.0
+Continental Air Lines Inc.,11/03/01,0.0
+Continental Air Lines Inc.,11/04/01,0.0
+Continental Air Lines Inc.,11/05/01,0.00104712041885
+Continental Air Lines Inc.,11/06/01,0.0031612223393
+Continental Air Lines Inc.,11/07/01,0.0
+Continental Air Lines Inc.,11/08/01,0.0
+Continental Air Lines Inc.,11/09/01,0.0020725388601
+Continental Air Lines Inc.,11/10/01,0.00138504155125
+Continental Air Lines Inc.,11/11/01,0.0
+Continental Air Lines Inc.,11/12/01,0.0910994764398
+Continental Air Lines Inc.,11/13/01,0.00105374077977
+Continental Air Lines Inc.,11/14/01,0.0
+Continental Air Lines Inc.,11/15/01,0.00208333333333
+Continental Air Lines Inc.,11/16/01,0.00829015544041
+Continental Air Lines Inc.,11/17/01,0.0
+Continental Air Lines Inc.,11/18/01,0.0
+Continental Air Lines Inc.,11/19/01,0.0125654450262
+Continental Air Lines Inc.,11/20/01,0.0
+Continental Air Lines Inc.,11/21/01,0.0
+Continental Air Lines Inc.,11/22/01,0.0
+Continental Air Lines Inc.,11/23/01,0.0
+Continental Air Lines Inc.,11/24/01,0.00136054421769
+Continental Air Lines Inc.,11/25/01,0.00334821428571
+Continental Air Lines Inc.,11/26/01,0.00104166666667
+Continental Air Lines Inc.,11/27/01,0.00105374077977
+Continental Air Lines Inc.,11/28/01,0.00105485232068
+Continental Air Lines Inc.,11/29/01,0.00104166666667
+Continental Air Lines Inc.,11/30/01,0.00933609958506
+US Airways Inc.,12/22/01,0.0
+US Airways Inc.,12/23/01,0.00646830530401
+US Airways Inc.,12/24/01,0.0124826629681
+US Airways Inc.,12/26/01,0.052291801162
+US Airways Inc.,12/27/01,0.0251775338928
+US Airways Inc.,12/28/01,0.0270967741935
+US Airways Inc.,12/29/01,0.00549450549451
+US Airways Inc.,12/30/01,0.00986193293886
+US Airways Inc.,12/31/01,0.0241212956582
+US Airways Inc.,12/01/01,0.0910973084886
+US Airways Inc.,12/02/01,0.0638998682477
+US Airways Inc.,12/03/01,0.0120788302606
+US Airways Inc.,12/04/01,0.00696643445218
+US Airways Inc.,12/05/01,0.00506649778341
+US Airways Inc.,12/06/01,0.00569981000633
+US Airways Inc.,12/07/01,0.00443037974684
+US Airways Inc.,12/08/01,0.0041067761807
+US Airways Inc.,12/09/01,0.00908500973394
+US Airways Inc.,12/10/01,0.0126662444585
+US Airways Inc.,12/11/01,0.00633312222926
+US Airways Inc.,12/12/01,0.00886637112096
+US Airways Inc.,12/13/01,0.0177327422419
+US Airways Inc.,12/14/01,0.0284810126582
+US Airways Inc.,12/15/01,0.016393442623
+US Airways Inc.,12/16/01,0.0155138978668
+US Airways Inc.,12/17/01,0.0145846544071
+US Airways Inc.,12/18/01,0.0892970234326
+US Airways Inc.,12/19/01,0.00759974667511
+US Airways Inc.,12/20/01,0.00696643445218
+US Airways Inc.,12/21/01,0.0
+US Airways Inc.,12/25/01,0.105577689243
+United Air Lines Inc.,12/01/01,0.00502152080344
+United Air Lines Inc.,12/02/01,0.00203942895989
+United Air Lines Inc.,12/03/01,0.00340367597005
+United Air Lines Inc.,12/04/01,0.010148849797
+United Air Lines Inc.,12/05/01,0.00608930987821
+United Air Lines Inc.,12/06/01,0.00338294993234
+United Air Lines Inc.,12/07/01,0.00473292765382
+United Air Lines Inc.,12/08/01,0.00659824046921
+United Air Lines Inc.,12/09/01,0.0048309178744
+United Air Lines Inc.,12/10/01,0.00878972278567
+United Air Lines Inc.,12/11/01,0.0121786197564
+United Air Lines Inc.,12/12/01,0.01150202977
+United Air Lines Inc.,12/13/01,0.00405679513185
+United Air Lines Inc.,12/14/01,0.00539811066127
+United Air Lines Inc.,12/15/01,0.0109090909091
+United Air Lines Inc.,12/16/01,0.00751366120219
+United Air Lines Inc.,12/17/01,0.0126835781041
+United Air Lines Inc.,12/18/01,0.0113484646195
+United Air Lines Inc.,12/19/01,0.00599600266489
+United Air Lines Inc.,12/20/01,0.00199468085106
+United Air Lines Inc.,12/21/01,0.000662251655629
+United Air Lines Inc.,12/22/01,0.000687757909216
+United Air Lines Inc.,12/23/01,0.00202429149798
+United Air Lines Inc.,12/26/01,0.00464499004645
+United Air Lines Inc.,12/27/01,0.00399201596806
+United Air Lines Inc.,12/30/01,0.0136054421769
+United Air Lines Inc.,12/24/01,0.00268576544315
+United Air Lines Inc.,12/25/01,0.00170068027211
+United Air Lines Inc.,12/28/01,0.0048309178744
+United Air Lines Inc.,12/29/01,0.00217548948513
+United Air Lines Inc.,12/31/01,0.00450112528132
+Delta Air Lines Inc.,12/19/01,0.0078431372549
+Delta Air Lines Inc.,12/20/01,0.00490677134446
+Delta Air Lines Inc.,12/21/01,0.00196078431373
+Delta Air Lines Inc.,12/22/01,0.00496277915633
+Delta Air Lines Inc.,12/23/01,0.00349301397206
+Delta Air Lines Inc.,12/24/01,0.00133511348465
+Delta Air Lines Inc.,12/26/01,0.00199302441455
+Delta Air Lines Inc.,12/27/01,0.00498007968127
+Delta Air Lines Inc.,12/28/01,0.00497512437811
+Delta Air Lines Inc.,12/29/01,0.0020191822312
+Delta Air Lines Inc.,12/30/01,0.00100452034154
+Delta Air Lines Inc.,12/31/01,0.00100050025013
+Delta Air Lines Inc.,12/01/01,0.00709939148073
+Delta Air Lines Inc.,12/02/01,0.00693069306931
+Delta Air Lines Inc.,12/03/01,0.00441609421001
+Delta Air Lines Inc.,12/04/01,0.0053974484789
+Delta Air Lines Inc.,12/05/01,0.00735654732712
+Delta Air Lines Inc.,12/06/01,0.00932286555447
+Delta Air Lines Inc.,12/07/01,0.00294117647059
+Delta Air Lines Inc.,12/08/01,0.0104425658876
+Delta Air Lines Inc.,12/09/01,0.00793650793651
+Delta Air Lines Inc.,12/10/01,0.00883218842002
+Delta Air Lines Inc.,12/11/01,0.0107948969578
+Delta Air Lines Inc.,12/12/01,0.0142156862745
+Delta Air Lines Inc.,12/13/01,0.0181550539745
+Delta Air Lines Inc.,12/14/01,0.00833333333333
+Delta Air Lines Inc.,12/15/01,0.00347222222222
+Delta Air Lines Inc.,12/16/01,0.00594059405941
+Delta Air Lines Inc.,12/17/01,0.0206084396467
+Delta Air Lines Inc.,12/18/01,0.00588812561335
+Delta Air Lines Inc.,12/25/01,0.0101329955668
+American Eagle Airlines Inc.,12/01/01,0.0185365853659
+American Eagle Airlines Inc.,12/02/01,0.0338379341051
+American Eagle Airlines Inc.,12/03/01,0.0133779264214
+American Eagle Airlines Inc.,12/04/01,0.0128095644748
+American Eagle Airlines Inc.,12/05/01,0.00754400670578
+American Eagle Airlines Inc.,12/06/01,0.0100418410042
+American Eagle Airlines Inc.,12/07/01,0.00752508361204
+American Eagle Airlines Inc.,12/08/01,0.013698630137
+American Eagle Airlines Inc.,12/09/01,0.0221043324492
+American Eagle Airlines Inc.,12/10/01,0.0226130653266
+American Eagle Airlines Inc.,12/11/01,0.0324786324786
+American Eagle Airlines Inc.,12/12/01,0.0496215306981
+American Eagle Airlines Inc.,12/13/01,0.056255247691
+American Eagle Airlines Inc.,12/14/01,0.035175879397
+American Eagle Airlines Inc.,12/15/01,0.0535019455253
+American Eagle Airlines Inc.,12/16/01,0.0714285714286
+American Eagle Airlines Inc.,12/17/01,0.0549542048293
+American Eagle Airlines Inc.,12/18/01,0.016992353441
+American Eagle Airlines Inc.,12/19/01,0.0299003322259
+American Eagle Airlines Inc.,12/20/01,0.0182119205298
+American Eagle Airlines Inc.,12/21/01,0.00165152766309
+American Eagle Airlines Inc.,12/22/01,0.00571973307912
+American Eagle Airlines Inc.,12/23/01,0.00879765395894
+American Eagle Airlines Inc.,12/24/01,0.0135135135135
+American Eagle Airlines Inc.,12/25/01,0.00531349628055
+American Eagle Airlines Inc.,12/26/01,0.0330851943755
+American Eagle Airlines Inc.,12/27/01,0.0600823045267
+American Eagle Airlines Inc.,12/28/01,0.0636363636364
+American Eagle Airlines Inc.,12/29/01,0.00956937799043
+American Eagle Airlines Inc.,12/30/01,0.0214669051878
+American Eagle Airlines Inc.,12/31/01,0.00290979631426
+American Airlines Inc.,12/01/01,0.00368098159509
+American Airlines Inc.,12/02/01,0.00426829268293
+American Airlines Inc.,12/03/01,0.00478182904961
+American Airlines Inc.,12/04/01,0.00119688809096
+American Airlines Inc.,12/05/01,0.00418910831837
+American Airlines Inc.,12/06/01,0.000597014925373
+American Airlines Inc.,12/07/01,0.0
+American Airlines Inc.,12/08/01,0.00372439478585
+American Airlines Inc.,12/09/01,0.002442002442
+American Airlines Inc.,12/10/01,0.00238948626045
+American Airlines Inc.,12/11/01,0.00538599640934
+American Airlines Inc.,12/12/01,0.00299401197605
+American Airlines Inc.,12/13/01,0.00119331742243
+American Airlines Inc.,12/14/01,0.00180505415162
+American Airlines Inc.,12/15/01,0.00188916876574
+American Airlines Inc.,12/16/01,0.00297619047619
+American Airlines Inc.,12/17/01,0.00519330640508
+American Airlines Inc.,12/18/01,0.0051993067591
+American Airlines Inc.,12/19/01,0.00114613180516
+American Airlines Inc.,12/20/01,0.00400457665904
+American Airlines Inc.,12/21/01,0.00114090131204
+American Airlines Inc.,12/22/01,0.0
+American Airlines Inc.,12/23/01,0.0
+American Airlines Inc.,12/24/01,0.00243457090688
+American Airlines Inc.,12/25/01,0.0047619047619
+American Airlines Inc.,12/26/01,0.000572082379863
+American Airlines Inc.,12/27/01,0.00456621004566
+American Airlines Inc.,12/28/01,0.00576036866359
+American Airlines Inc.,12/29/01,0.000616522811344
+American Airlines Inc.,12/30/01,0.000593471810089
+American Airlines Inc.,12/31/01,0.00234741784038
+Continental Air Lines Inc.,12/01/01,0.0
+Continental Air Lines Inc.,12/02/01,0.00229621125144
+Continental Air Lines Inc.,12/03/01,0.00315789473684
+Continental Air Lines Inc.,12/04/01,0.00643776824034
+Continental Air Lines Inc.,12/05/01,0.0
+Continental Air Lines Inc.,12/06/01,0.00105042016807
+Continental Air Lines Inc.,12/07/01,0.00103842159917
+Continental Air Lines Inc.,12/08/01,0.0
+Continental Air Lines Inc.,12/09/01,0.00114810562572
+Continental Air Lines Inc.,12/10/01,0.00105263157895
+Continental Air Lines Inc.,12/11/01,0.0
+Continental Air Lines Inc.,12/12/01,0.0021528525296
+Continental Air Lines Inc.,12/13/01,0.00414507772021
+Continental Air Lines Inc.,12/14/01,0.00102040816327
+Continental Air Lines Inc.,12/15/01,0.0
+Continental Air Lines Inc.,12/16/01,0.00565610859729
+Continental Air Lines Inc.,12/17/01,0.00614124872057
+Continental Air Lines Inc.,12/18/01,0.00817160367722
+Continental Air Lines Inc.,12/19/01,0.0
+Continental Air Lines Inc.,12/20/01,0.00408580183861
+Continental Air Lines Inc.,12/21/01,0.0020366598778
+Continental Air Lines Inc.,12/22/01,0.0
+Continental Air Lines Inc.,12/23/01,0.0
+Continental Air Lines Inc.,12/24/01,0.00401606425703
+Continental Air Lines Inc.,12/25/01,0.00250941028858
+Continental Air Lines Inc.,12/26/01,0.00102354145343
+Continental Air Lines Inc.,12/27/01,0.0030612244898
+Continental Air Lines Inc.,12/28/01,0.0030612244898
+Continental Air Lines Inc.,12/29/01,0.00267022696929
+Continental Air Lines Inc.,12/30/01,0.0
+Continental Air Lines Inc.,12/31/01,0.0
